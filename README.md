@@ -45,6 +45,15 @@ Frontend developer
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
+<b>HTML & CSS Layout Repositories</b>
+
+<div width="100%" align="center">
+  <a href="https://github.com/kais-blkc/practice" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=practice&title_color=e3b341&text_color=ffffff&icon_color=e3b341&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
 
 <b>My GitHub Stats</b>
 
