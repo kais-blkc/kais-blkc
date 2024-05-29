@@ -36,8 +36,8 @@ Frontend developer
 <b>React Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/kais-blkc/effective_mobile_test" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=effective_mobile_test&title_color=c4473a&text_color=ffffff&icon_color=c4473a&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/kais-blkc/jwi" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=jwi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/kais-blkc/jwi" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-   blkc&repo=jwi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
