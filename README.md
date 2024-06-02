@@ -37,7 +37,7 @@ Frontend developer
 
 <div width="100%" align="center">
   <a href="https://github.com/kais-blkc/jwi" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=jwi&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=jwi&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff20&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/kais-blkc/react_todo_app" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=react_todo_app&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
