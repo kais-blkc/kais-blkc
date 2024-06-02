@@ -56,9 +56,9 @@ Frontend developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kais-blkc"><img src="https://github-readme-stats.vercel.app/api?username=kais-blkc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff25&hide_border=true&show_icons=true" alt="kais-blkc's GitHub stats" /></a>
+<a href="http://www.github.com/kais-blkc"><img src="https://github-readme-stats.vercel.app/api?username=kais-blkc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="kais-blkc's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kais-blkc&hide=javascript,Makefile,HTML,CSS&layout=compact&count_private=true&langs_count=8)](https://github.com/ignavan39/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kais-blkc&hide=Makefile,HTML,CSS&layout=compact&count_private=true&langs_count=8)](https://github.com/ignavan39/github-readme-stats)
 
 <!--
 <a href="https://github.com/kais-blkc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kais-blkc&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff25&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
