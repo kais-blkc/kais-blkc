@@ -37,10 +37,10 @@ Frontend developer
 
 <div width="100%" align="center">
   <a href="https://github.com/kais-blkc/jwi" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=jwi&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff50&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=jwi&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff05&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/kais-blkc/react_todo_app" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=react_todo_app&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff50&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=react_todo_app&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff25&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
@@ -49,7 +49,7 @@ Frontend developer
 
 <div width="100%" align="center">
   <a href="https://github.com/kais-blkc/practice" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=practice&title_color=e3b341&text_color=e3b341&icon_color=e3b341&bg_color=ffffff50&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=practice&title_color=e3b341&text_color=e3b341&icon_color=e3b341&bg_color=ffffff25&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
@@ -57,7 +57,7 @@ Frontend developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kais-blkc"><img src="https://github-readme-stats.vercel.app/api?username=kais-blkc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff50&hide_border=true&show_icons=true" alt="kais-blkc's GitHub stats" /></a>
+<a href="http://www.github.com/kais-blkc"><img src="https://github-readme-stats.vercel.app/api?username=kais-blkc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff25&hide_border=true&show_icons=true" alt="kais-blkc's GitHub stats" /></a>
 
-<a href="https://github.com/kais-blkc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kais-blkc&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff50&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kais-blkc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kais-blkc&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff25&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
