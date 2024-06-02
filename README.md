@@ -28,7 +28,7 @@ Frontend developer
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=effective_mobile_test&title_color=c4473a&text_color=c4473a&icon_color=c4473a&bg_color=ffffff30&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/kais-blkc/nakiki_maps" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=nakiki_maps&title_color=c4473a&text_color=c4473a&icon_color=c4473a&bg_color=ffffff70&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kais-blkc&repo=nakiki_maps&title_color=c4473a&text_color=c4473a&icon_color=c4473a&bg_color=ffffff90&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
